@@ -11,5 +11,5 @@ In terminal run this script by typing `load_chgk_database.py -o <FOLDER>`
 - `-s START` `--start=START`    Page to start parsing
 - `-e END` `--end=END`          Page to end parsing
 
-If neither **start** nor **end** is specified, then all database will be loaded.
-**start** and **end** are selected from [main page](http://db.chgk.info/) in the bottom
+If neither **start page number** nor **end page number** is specified, then all database will be loaded.<br>
+**start page number** and **end page number** are selected from [main page](http://db.chgk.info/) in the bottom
