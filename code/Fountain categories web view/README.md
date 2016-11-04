@@ -12,6 +12,6 @@ You need to download [texts](https://yadi.sk/d/92TbmE7cy5Lds) and put it in `dat
 And it's pretty heavy, so be patient. Will fix it one day. *(sorry for now c:)*<br>
 
 But in the end, you should get something like this:<br>
-![web view example](/images/2016-11-04_17-18-53.png)
+![web view example](images/2016-11-04_17-18-53.png)
 
 Thanks to flask for [flaskr example](https://github.com/pallets/flask/tree/master/examples/flaskr/)
