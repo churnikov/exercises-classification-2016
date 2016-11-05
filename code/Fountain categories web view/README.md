@@ -1,9 +1,9 @@
 # Web view for Exercise 5. Prediction of news categories.
-To run this You need to write in terminal:
-1. export FLASK_APP=flaskr
-2. flask initdb
+To run this You need to write in terminal:<br>
+1. export FLASK_APP=flaskr<br>
+2. flask initdb<br>
 3. flask run<br>
-   Then you can proceed to http://localhost:5000/
+   Then you can proceed to http://localhost:5000/<br>
 4. Enter **login: admin**, **password: default**<br>
 
 ### Additional data
