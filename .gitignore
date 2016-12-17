@@ -1,3 +1,8 @@
 *checkpoint.ipynb
 *.pyc
 *.db
+
+code/Fountain categories web view/data/texts_fontanka.pickle
+code/Fountain search/data/news_cats.pickle
+code/Fountain search/data/stop_words.txt
+code/Fountain search/data/texts_fontanka.pickle
